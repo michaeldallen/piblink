@@ -2,7 +2,7 @@
 
 raspberry pi discovery project
 
-also pipelining through github to dockerhub
+also discovery on pipelining through github to dockerhub
 
-trigger check3
+trigger check4
 
